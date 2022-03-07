@@ -1,0 +1,31 @@
+<RCC>
+    <qresource prefix="/img">
+        <file>images/logo.png</file>
+        <file>images/user.png</file>
+        <file>images/addprod.png</file>
+        <file>images/book.png</file>
+        <file>images/ediprod.png</file>
+        <file>images/icons8-pay-date-50.png</file>
+        <file>images/icons8-purchase-order-48.png</file>
+        <file>images/icons8-users-settings-48.png</file>
+        <file>images/icons8-home-page-30(1).png</file>
+        <file>images/icons8-copy-24.png</file>
+        <file>images/icons8-cut-24.png</file>
+        <file>images/icons8-forward-arrow-24.png</file>
+        <file>images/icons8-info-24.png</file>
+        <file>images/icons8-new-copy-24.png</file>
+        <file>images/icons8-open-file-folder-24.png</file>
+        <file>images/icons8-paste-24.png</file>
+        <file>images/icons8-save-24.png</file>
+        <file>images/icons8-save-as-24.png</file>
+        <file>images/icons8-undo-24.png</file>
+        <file>images/icons8-bill-48.png</file>
+        <file>images/icons8-product-64.png</file>
+        <file>images/icons8-search-property-48.png</file>
+        <file>images/icons8-color-mode-24.png</file>
+        <file>images/icons8-font-24.png</file>
+        <file>images/icons8-highlighter-24.png</file>
+        <file>images/icons8-print-24.png</file>
+        <file>images/icons8-remove-delivery-48.png</file>
+    </qresource>
+</RCC>
